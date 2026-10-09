@@ -1,0 +1,1 @@
+{"name":"sparkfall-workspace","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node sparkfall/server.mjs","lint":"node --check sparkfall/game.mjs && node --check sparkfall/server.mjs && node --check sparkfall/public/client.js","test":"node --test sparkfall/test/game.test.mjs"}}
